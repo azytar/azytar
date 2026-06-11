@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm azytar 👋
 
-<!--
-**azytar/azytar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a systems programmer and Linux enthusiast. I build high-performance, minimalist tools for the terminal and the desktop using **Rust**.
 
-Here are some ideas to get you started:
+### 🛠️ Current Projects
+- **rviv**: A minimalist, Vulkan-accelerated image viewer for Linux.
+- **Maverick**: A high-performance tiling window manager inspired by dwm.
+- **aev**: A minimal, low-latency system fetch tool.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🦀 Tech Stack
+- **Languages:** Rust, C
+- **Focus:** Linux Desktop, Vulkan, Window Managers, CLI tools.
+
+🎯 *Currently focusing on building and refining my Linux rice.*
