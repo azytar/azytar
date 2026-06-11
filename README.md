@@ -11,4 +11,4 @@ I'm a systems programmer and Linux enthusiast. I build high-performance, minimal
 - **Languages:** Rust, C
 - **Focus:** Linux Desktop, Vulkan, Window Managers, CLI tools.
 
-🎯 *Currently focusing on building and refining my Linux rice.*
+🎯 Currently focused on Rust development and refining my Arch Linux setup.
